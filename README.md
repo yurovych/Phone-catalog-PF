@@ -104,7 +104,7 @@ The Phone Catalog is a modern, feature-rich e-commerce platform built using Reac
 
 ## Links
 
-- **Preview**: [Project Live Preview](----------)
+- **Preview**: [Project Live Preview](https://yurovych.github.io/Phone-catalog-PF/)
 - **Mockup Original**: [Figma Mockup Link](<https://www.figma.com/design/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog-(V2)-Original>)
 - **Mockup Dark**: [Figma Mockup Link](<https://www.figma.com/design/BUusqCIMAWALqfBahnyIiH/Phone-catalog-(V2)-Original-Dark?node-id=0-1&node-type=canvas>)
 
